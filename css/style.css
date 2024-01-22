@@ -87,7 +87,7 @@ footer {
 
 #why {
 	width: 100%;
-	min-heiht: 400px;
+	min-height: 400px;
 	background: url("../images/why.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -129,4 +129,13 @@ footer {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center
+}
+
+#banner {
+	width: 100%;
+	min-height: 300px;
+	background: url(../images/pageheader.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
 }
